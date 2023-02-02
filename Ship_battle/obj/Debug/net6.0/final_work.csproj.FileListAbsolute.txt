@@ -1,0 +1,15 @@
+D:\RiderProgect\final_work\final_work\bin\Debug\net6.0\final_work.exe
+D:\RiderProgect\final_work\final_work\bin\Debug\net6.0\final_work.deps.json
+D:\RiderProgect\final_work\final_work\bin\Debug\net6.0\final_work.runtimeconfig.json
+D:\RiderProgect\final_work\final_work\bin\Debug\net6.0\final_work.dll
+D:\RiderProgect\final_work\final_work\bin\Debug\net6.0\final_work.pdb
+D:\RiderProgect\final_work\final_work\obj\Debug\net6.0\final_work.csproj.AssemblyReference.cache
+D:\RiderProgect\final_work\final_work\obj\Debug\net6.0\final_work.GeneratedMSBuildEditorConfig.editorconfig
+D:\RiderProgect\final_work\final_work\obj\Debug\net6.0\final_work.AssemblyInfoInputs.cache
+D:\RiderProgect\final_work\final_work\obj\Debug\net6.0\final_work.AssemblyInfo.cs
+D:\RiderProgect\final_work\final_work\obj\Debug\net6.0\final_work.csproj.CoreCompileInputs.cache
+D:\RiderProgect\final_work\final_work\obj\Debug\net6.0\final_work.dll
+D:\RiderProgect\final_work\final_work\obj\Debug\net6.0\refint\final_work.dll
+D:\RiderProgect\final_work\final_work\obj\Debug\net6.0\final_work.pdb
+D:\RiderProgect\final_work\final_work\obj\Debug\net6.0\final_work.genruntimeconfig.cache
+D:\RiderProgect\final_work\final_work\obj\Debug\net6.0\ref\final_work.dll

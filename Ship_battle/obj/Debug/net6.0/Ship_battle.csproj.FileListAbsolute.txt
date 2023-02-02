@@ -1,0 +1,15 @@
+D:\RiderProgect\final_work\Ship_battle\bin\Debug\net6.0\Ship_battle.exe
+D:\RiderProgect\final_work\Ship_battle\bin\Debug\net6.0\Ship_battle.deps.json
+D:\RiderProgect\final_work\Ship_battle\bin\Debug\net6.0\Ship_battle.runtimeconfig.json
+D:\RiderProgect\final_work\Ship_battle\bin\Debug\net6.0\Ship_battle.dll
+D:\RiderProgect\final_work\Ship_battle\bin\Debug\net6.0\Ship_battle.pdb
+D:\RiderProgect\final_work\Ship_battle\obj\Debug\net6.0\Ship_battle.csproj.AssemblyReference.cache
+D:\RiderProgect\final_work\Ship_battle\obj\Debug\net6.0\Ship_battle.GeneratedMSBuildEditorConfig.editorconfig
+D:\RiderProgect\final_work\Ship_battle\obj\Debug\net6.0\Ship_battle.AssemblyInfoInputs.cache
+D:\RiderProgect\final_work\Ship_battle\obj\Debug\net6.0\Ship_battle.AssemblyInfo.cs
+D:\RiderProgect\final_work\Ship_battle\obj\Debug\net6.0\Ship_battle.csproj.CoreCompileInputs.cache
+D:\RiderProgect\final_work\Ship_battle\obj\Debug\net6.0\Ship_battle.dll
+D:\RiderProgect\final_work\Ship_battle\obj\Debug\net6.0\refint\Ship_battle.dll
+D:\RiderProgect\final_work\Ship_battle\obj\Debug\net6.0\Ship_battle.pdb
+D:\RiderProgect\final_work\Ship_battle\obj\Debug\net6.0\Ship_battle.genruntimeconfig.cache
+D:\RiderProgect\final_work\Ship_battle\obj\Debug\net6.0\ref\Ship_battle.dll
